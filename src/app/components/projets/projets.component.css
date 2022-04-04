@@ -1,0 +1,17 @@
+.row {
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+.contenedor {
+    width: auto;
+}
+
+.part01, .part02 {
+    display: inline-block;
+    text-align: justify;
+}
+
+.img-projects {
+    box-shadow: 10px 10px 30px black;
+}
