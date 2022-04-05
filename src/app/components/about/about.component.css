@@ -13,7 +13,6 @@ div {
         width: 15%;
         border-radius: 25%;
         box-shadow: 3px 3px 3px gray;
-        /* left: 5%; */
         top: 525px;
     }
 }
@@ -25,7 +24,7 @@ div {
         border-radius: 25%;
         box-shadow: 3px 3px 3px gray;
         left: 33%;
-        top: 200px;
+        top: 335px;
     }
 }
 

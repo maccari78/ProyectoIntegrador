@@ -1,3 +1,40 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.networks {
+    margin-right: 0.5em;
+}
+
 #argProg {
     width: 150px;
+    margin-left: 0.5em;
+}
+
+img {
+    width: 50px;
+    margin-right: 0.5em;
+}
+
+.btn {
+    border-width: medium;
+}
+
+/* Para la vista de celular */
+@media(max-width:575px) {
+    .container {
+        flex-direction: column;
+    }
+    
+    .networks {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .networks img {
+        margin: 0.5em;
+    }
 }
