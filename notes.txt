@@ -1,3 +1,7 @@
 // Elegir Java 8 en Spring Initializer
 // Crear paquetes desde el primer paquete no desde Source Packages
 // La Entidad que llama al Repositorio que llama a la Interfaz que llama al Servicio que llama al controlador
+
+git init
+git add .
+git commit -m "Initial commit"
